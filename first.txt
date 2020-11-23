@@ -1,2 +1,3 @@
-First line
+file 1
+second line now
 new line in file 1
