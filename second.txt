@@ -1,4 +1,5 @@
 jskj
 second file new line
 third file added
+ss
 last line in file 2
